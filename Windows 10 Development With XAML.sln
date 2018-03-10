@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter01", "Chapter01", "{C8E3DB6F-9408-49EE-91A9-A77E24EA807E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter01", "Chapter01\Chapter01.csproj", "{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|ARM.Build.0 = Debug|ARM
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|x64.ActiveCfg = Debug|x64
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|x64.Build.0 = Debug|x64
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|x64.Deploy.0 = Debug|x64
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|x86.ActiveCfg = Debug|x86
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|x86.Build.0 = Debug|x86
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Debug|x86.Deploy.0 = Debug|x86
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|ARM.ActiveCfg = Release|ARM
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|ARM.Build.0 = Release|ARM
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|ARM.Deploy.0 = Release|ARM
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|x64.ActiveCfg = Release|x64
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|x64.Build.0 = Release|x64
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|x64.Deploy.0 = Release|x64
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|x86.ActiveCfg = Release|x86
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|x86.Build.0 = Release|x86
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3D5FE8BC-41EF-41CC-A164-F69A1C13C86F} = {C8E3DB6F-9408-49EE-91A9-A77E24EA807E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7F585D-9725-4C27-AADD-44F23620AD18}
+	EndGlobalSection
+EndGlobal
